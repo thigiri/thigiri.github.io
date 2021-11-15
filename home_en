@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charsset="utf-8">
+<meta name="author" content="team4">
+<meta name="description" content="案内チャットボット">
+<title>ChatBot</title>
+<link href="style.css" media="all" rel="stylesheet"><!-- CSS連携 -->
+<!-- グーグルフォント　ここから -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300&display=swap" rel="stylesheet">
+<!-- グーグルフォント　ここまで -->
+</head>
+<body>
+<header>
+<h1>AI Guidance Chatbot for Foreigners</h1><!-- 大見出し -->
+</header>
+<div>
+<main>
+<!-- ボタン ここから -->
+<a href="index.html" class="btn btn-border">日本語</a>
+<a href="home_en.html" class="btn btn-border">English</a>
+<a href="home_vn.html" class="btn btn-border">Tiếng Việt</a>
+<a href="home_id.html" class="btn btn-border">bahasa Indonesia</a>
+<a href="home_ar.html" class="btn btn-border">عربي</a>
+<!-- ボタン ここまで -->
+<section>
+<h2>What is an Guidance Chatbot for Foreigners?</h2><!-- 見出し -->
+<!-- 本文　ここから -->
+<p>This site does not know where foreigners should go through public service procedures,especially paying and receiving utility bills,
+forgetting to pay the money they have to pay,
+and not knowing what the rules are.<br>
+It is a site to solve problems such as not being able to receive the support and services that were originally received.<br>
+Press the button at the right bottom corner to start.</p>
+<!-- 本文　ここまで -->
+</section>
+</main>
+</div>
+<footer>
+<p>Copyright 2021 ChatBot.</p>
+</footer>
+</body>
+</html>
